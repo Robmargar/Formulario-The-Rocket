@@ -1,4 +1,4 @@
-# React + Vite
+# Cliente
 
 En Client encontraremos los tres componentes base solicitados , así como un par más que fueron creados para la correcta funcionabilidad del proyecto.
 
