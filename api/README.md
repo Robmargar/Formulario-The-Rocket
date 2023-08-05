@@ -14,5 +14,8 @@ con los datos siguientes:
 * FechaNacimiento
 * Correo
 * Telefono
-La 
-la api fue contruida con las tecnologías de Node Js , Apollo y Graphql
+ 
+La api fue contruida con las tecnologías de Node Js , Apollo y Graphql
+
+El proyecto funciona con la base de datos generada en la misma Api, se  Consiguió crear la Tabla de datos dentro de MYSQL , sin embargo 
+la conexion no fue completada de manera exitosa entre la BD y el servidor,
